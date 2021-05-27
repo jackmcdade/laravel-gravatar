@@ -12,6 +12,7 @@ return array(
 	// (string) monsterid: a generated 'monster' with different colors, faces, etc.
 	// (string) wavatar: generated faces with differing features and backgrounds.
 	// (string) retro: awesome generated, 8-bit arcade-style pixelated faces.
+	// (string) robohash: a generated robot with different colors, faces, etc
 	'default' => 'identicon',
 
 	// --- Set the type of avatars we allow to show
